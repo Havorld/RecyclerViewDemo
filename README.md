@@ -1,4 +1,5 @@
-# RecyclerView控件的用法
+## 转载请注明出处：[http://blog.csdn.net/xiaohao0724/article/details/62888275](http://blog.csdn.net/xiaohao0724/article/details/62888275)
+### 
 在Android开发中我们经常会遇到展示列表的情况，在早期版本系统提供了ListView、GirdView供我们使用，今天来向大家介绍另外一个可以集ListView、GirdView和瀑布流与一身的强大控件RecyclerView。
 下面我们先来看一下效果图：
 ![](https://github.com/Havorld/AndroidSummaryPic/blob/master/RecyclerViewDemo.gif?raw=true)
